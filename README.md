@@ -1,25 +1,25 @@
-# Olá! 👋 Eu sou William Lodi West
+# Hi! 👋 I'm William Lodi West
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas.
+🎓 Graduated in Analysis and Systems Development.
 
-💻 Desenvolvedor Front-End em busca da primeira oportunidade na área.
+💻 Front-End Developer seeking my first opportunity in the field.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Atualmente busco minha primeira oportunidade como Desenvolvedor de Software, criando projetos práticos e aprimorando minhas habilidades diariamente.
+I am currently looking for my first opportunity as a Software Developer while building practical projects and continuously improving my skills.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - HTML
 - CSS
 - JavaScript
-- Python (Em progresso)
+- Python (In Progress)
 
-## 📂 Projetos
+## 📂 Projects
 
-Em breve você encontrará aqui meus principais projetos de desenvolvimento.
+Soon you'll find my main development projects here.
 
-## 📫 Contato
+## 📫 Contact
 
 📧 williamwest2015@gmail.com
 
