@@ -13,7 +13,7 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor de Software, cri
 - HTML
 - CSS
 - JavaScript
-- Python (estudando)
+- Python (Em progresso)
 
 ## 📂 Projetos
 
